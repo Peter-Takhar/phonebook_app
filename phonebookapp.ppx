@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="pbooklinkedlist.h">
+		<category name="Window">
+			<property name="Left" type="integer">25</property>
+			<property name="Top" type="integer">25</property>
+			<property name="Right" type="integer">1049</property>
+			<property name="Bottom" type="integer">385</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="phonebookmenu.c">
+		<category name="Window">
+			<property name="Left" type="integer">-8</property>
+			<property name="Top" type="integer">-30</property>
+			<property name="Right" type="integer">1093</property>
+			<property name="Bottom" type="integer">489</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+	<category name="phonebtree.h">
+		<category name="Window">
+			<property name="Left" type="integer">75</property>
+			<property name="Top" type="integer">75</property>
+			<property name="Right" type="integer">1099</property>
+			<property name="Bottom" type="integer">435</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+</settings>
